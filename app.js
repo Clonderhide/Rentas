@@ -87,7 +87,11 @@ const propertiesData = {
         location: 'Saltillo Col Francisco & Madero',
         price: '$10,000',
         image: 'imagenes/!.jpeg',
-        desc: 'La casa ofrece un espacio cómodo y funcional, con acceso protegido por reja para mayor seguridad. Perfecta para familias o personas que buscan un lugar práctico y accesible para vivir.',
+        desc: `La casa ofrece un espacio cómodo y funcional, con acceso protegido por reja para mayor seguridad. Perfecta para familias o personas que buscan un lugar práctico y accesible para vivir.
+
+📱 Informes por WhatsApp:
++52 844 138 21 28
++52 814 516 74 02`,
         gallery: [
             'imagenes/!.jpeg',
             'imagenes/1 (7).jpeg',
@@ -273,4 +277,5 @@ window.closeGallery = function () {
         document.body.style.overflow = '';
     }
 }
+
 
