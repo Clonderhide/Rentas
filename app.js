@@ -87,7 +87,7 @@ const propertiesData = {
         location: 'Saltillo Col Francisco & Madero',
         price: '$10,000',
         image: 'imagenes/!.jpeg',
-        desc: 'Espectacular villa moderna con vista panorámica al mar y acceso privado a la playa. Esta propiedad de lujo cuenta con acabados de primera calidad, pisos de mármol importado, cocina de chef completamente equipada y una impresionante piscina infinita que se funde con el horizonte. Ideal para familias grandes o grupos que buscan la máxima exclusividad en la Riviera.',
+        desc: 'La casa ofrece un espacio cómodo y funcional, con acceso protegido por reja para mayor seguridad. Perfecta para familias o personas que buscan un lugar práctico y accesible para vivir.',
         gallery: [
             'imagenes/!.jpeg',
             'imagenes/1 (7).jpeg',
@@ -273,3 +273,4 @@ window.closeGallery = function () {
         document.body.style.overflow = '';
     }
 }
+
